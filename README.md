@@ -16,6 +16,15 @@ It analyzes trends in both India and Global data, and predicts future case trend
 - Interactive Graphs using Plotly
 - 7-Day Forecasting using Prophet Model
 
+#PREVIEW
+![India Covid Trend](covid19_India.png)
+
+![Global Covid Trend](global_cvd.png)
+
+![Daily Covid Trend](Daily_cases.png)
+
+![ 7 Day Forecast of covid 19](7_day_prediction.png)
+
 
 
 
