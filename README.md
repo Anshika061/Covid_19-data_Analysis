@@ -19,9 +19,9 @@ It analyzes trends in both India and Global data, and predicts future case trend
 #PREVIEW
 ![India Covid Trend](covid19_India.png)
 
-![Global Covid Trend](global_cvd.png)
+![Global Covid Trend](global_cvd_19.png)
 
-![Daily Covid Trend](Daily_cases.png)
+![Daily Covid Trend](Daily_Cases.png)
 
 ![ 7 Day Forecast of covid 19](7_day_prediction.png)
 
